@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "966617485756",
+    "project_id": "chithi-c8c82",
+    "storage_bucket": "chithi-c8c82.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:966617485756:android:61166ee4585d787b199bb9",
+        "android_client_info": {
+          "package_name": "com.example.chithi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "966617485756-qjmrf14av3hsi00np03unhcli8v318nc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAI2kcRZFGWpwCo_jJywzcaZT3xJkLGnJo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "966617485756-qjmrf14av3hsi00np03unhcli8v318nc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
